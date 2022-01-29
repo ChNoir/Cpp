@@ -1,0 +1,4 @@
+﻿  PacMan2.cpp
+C:\Users\Ryan\Documents\Informatique\Cour C et C++\PacMan2\PacMan2\PacMan2.cpp(150,17): warning C4244: 'initialisation' : conversion de 'float' en 'clock_t', perte possible de données
+C:\Users\Ryan\Documents\Informatique\Cour C et C++\PacMan2\PacMan2\PacMan2.cpp(806,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  PacMan2.vcxproj -> C:\Users\Ryan\Documents\Informatique\Cour C et C++\PacMan2\Debug\PacMan2.exe

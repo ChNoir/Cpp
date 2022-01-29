@@ -1,0 +1,28 @@
+﻿  PacMan.cpp
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(144,17): warning C4244: 'initialisation' : conversion de 'float' en 'clock_t', perte possible de données
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(300,18): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(302,19): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(304,6): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(306,6): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(313,6): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(315,6): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(323,18): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(325,19): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(339,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(642,10): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(645,11): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(648,11): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(651,11): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(654,11): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(659,12): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(662,12): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(668,12): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(671,12): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(678,13): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(683,13): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(691,13): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(696,13): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(706,14): warning C4309: '=' : troncation de valeur de constante
+C:\Users\confo\Desktop\Cour C et C++\PacMan\PacMan\PacMan.cpp(398,8): warning C4101: 'tab_G' : variable locale non référencée
+LINK : warning LNK4044: option '/utf-8' non reconnue ; ignorée
+  PacMan.vcxproj -> C:\Users\confo\Desktop\Cour C et C++\PacMan\Debug\PacMan.exe
